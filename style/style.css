@@ -39,3 +39,40 @@ button.prymari-button {
     font-weight: 700;
     margin-top: 10px;
 }
+
+/* featured-flowers */
+
+.featured-flowers-text {
+    text-align: center;
+    padding-top: 115px;
+}
+
+.featured-flowers-text h1 {
+    font-size: 43px;
+    color: #272727;
+}
+
+.featured-flowers-pic {
+    display: flex;
+    justify-content: center;
+}
+
+.single-flowers {
+    background: #A7216226;
+    padding: 30px 20px 0px 20px;
+    border-radius: 400px 400px 0px 0px;
+    margin: 23px 13px 0px 13px;
+}
+
+.single-flowers img {
+    height: 327px;
+}
+
+#flower-2 {
+    background: #0597A026;
+
+}
+
+#flower-3 {
+    background: #477D1126;
+}
