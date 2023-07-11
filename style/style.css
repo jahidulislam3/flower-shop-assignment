@@ -91,6 +91,13 @@ button.prymari-button {
     text-align: center;
     padding-top: 97px;
 }
+.hot-deal-style {
+    color: red;
+}
+
+.hot-deal-text h1 {
+    font-size: 28px;
+}
 
 .hot-deal-text p {
     color: gray;
@@ -98,4 +105,29 @@ button.prymari-button {
 
 .hot-deal-pic img {
     width: 297px;
+}
+
+.instagram {
+    text-align: center;
+    padding-top: 115px;
+}
+
+.instagram h1 {
+    font-size: 43px;
+    color: #272727;
+}
+
+.flowers-pic {
+    display: flex;
+    margin-left: 161px;
+}
+
+.single-flower img {
+    width: 245px;
+    height: 277px;
+    margin: 50px 22px 50px 0px;
+}
+
+.instagram p {
+    color: gray;
 }
