@@ -30,6 +30,10 @@ body {
     color: #585757;
 }
 
+.banner-picture {
+    margin-bottom: -4px;
+}
+
 button.prymari-button {
     border-radius: 8px;
     background: #E55473;
@@ -73,6 +77,9 @@ button.prymari-button {
 
 }
 
+div#flower-2 img {
+    width: 226px;
+}
 #flower-3 {
     background: #477D1126;
 }
@@ -153,4 +160,30 @@ button.prymari-button {
     font-size: 33px;
     font-weight: 800;
     color: #272727;
+}
+
+
+/* footer */
+.foooter-site {
+    background: #111010;
+    text-align: center;
+    padding: 60px 425px 60px 425px;
+    margin-top: 81px;
+}
+
+.shop-style {
+    color: #E55473;
+}
+
+.foooter-site p {
+    color: #E7E7E7;
+}
+
+.foooter-site h1 {
+    font-size: 41px;
+    color: white;
+}
+
+p.footer-end {
+    color: gray;
 }
