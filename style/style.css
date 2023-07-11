@@ -80,6 +80,7 @@ button.prymari-button {
 div#flower-2 img {
     width: 226px;
 }
+
 #flower-3 {
     background: #477D1126;
 }
@@ -89,6 +90,7 @@ a.flower-name {
     color: black;
     margin: 355px 0px 0px -170px;
 }
+
 /* hot deal */
 .hot-deal-part {
     display: flex;
