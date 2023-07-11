@@ -67,7 +67,10 @@ button.prymari-button {
     border-radius: 400px 400px 0px 0px;
     margin: 23px 13px 0px 13px;
 }
-
+img#pink-pic {
+    height: 331px;
+    margin-bottom: -3px;
+}
 .single-flowers img {
     height: 327px;
 }
@@ -97,6 +100,7 @@ a.flower-name {
     justify-content: space-evenly;
     margin-top: 130px;
     background: #FEF6F8;
+    padding: 50px 0px;
 }
 
 .hot-deal-text {
@@ -193,4 +197,49 @@ a.flower-name {
 
 p.footer-end {
     color: gray;
+}
+
+/* bonas part */
+.shop-Now {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+span.shop {
+    color: #E55473;
+}
+
+.shop-Now-pic img {
+    width: 169px;
+}
+
+.shop-Now-pic i {
+    color: #ff0023ba;
+}
+
+img#shop-1 {
+    height: 236px;
+}
+
+img#shop-3 {
+    height: 236px;
+}
+
+.shop-now-tytle {
+    text-align: center;
+    padding-bottom: 55px;
+    padding-top: 32px;
+}
+
+.shop-now-tytle h1 {
+    font-size: 42px;
+}
+
+i#arrow {
+    color: white;
+    padding-left: 4px;
+}
+
+.order-now {
+    margin-left: 30px;
 }
