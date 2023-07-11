@@ -5,7 +5,7 @@ body {
 
 .main-banner {
     display: flex;
-    background: #ff655029;
+    background: #FCEEF1;
     padding: 24px 135px 0px 135px;
 }
 
@@ -75,4 +75,27 @@ button.prymari-button {
 
 #flower-3 {
     background: #477D1126;
+}
+
+/* hot deal */
+.hot-deal-part {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 96px;
+    background: #FEF6F8;
+}
+
+.hot-deal-text {
+    width: 372px;
+    color: #272727;
+    text-align: center;
+    padding-top: 97px;
+}
+
+.hot-deal-text p {
+    color: gray;
+}
+
+.hot-deal-pic img {
+    width: 297px;
 }
