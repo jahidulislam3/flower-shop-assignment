@@ -84,11 +84,16 @@ div#flower-2 img {
     background: #477D1126;
 }
 
+a.flower-name {
+    position: absolute;
+    color: black;
+    margin: 355px 0px 0px -170px;
+}
 /* hot deal */
 .hot-deal-part {
     display: flex;
     justify-content: space-evenly;
-    margin-top: 96px;
+    margin-top: 130px;
     background: #FEF6F8;
 }
 
