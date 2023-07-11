@@ -91,6 +91,7 @@ button.prymari-button {
     text-align: center;
     padding-top: 97px;
 }
+
 .hot-deal-style {
     color: red;
 }
@@ -130,4 +131,26 @@ button.prymari-button {
 
 .instagram p {
     color: gray;
+}
+
+.latest-deals img {
+    width: 1046px;
+    margin-left: 162px;
+    margin-top: 34px;
+}
+
+.latest-text {
+    position: absolute;
+    text-align: center;
+    margin: 140px 0px 0px 385px;
+}
+
+.latest-text input {
+    padding: 8px 310px 8px 13px;
+}
+
+.latest-text h1 {
+    font-size: 33px;
+    font-weight: 800;
+    color: #272727;
 }
